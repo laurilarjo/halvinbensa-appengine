@@ -1,0 +1,9 @@
+{% if station_list %}
+	<ul>
+	{% for station in station_list %}
+		<li><a href="/api/{{station.id}}/">{{station.title}}</a></li>
+	{% endfor %}
+	</ul>
+{% else %}
+	<p>Ei asemia...</p>
+{% endif %}

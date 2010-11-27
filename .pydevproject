@@ -8,9 +8,9 @@
 <key>GOOGLE_APP_ENGINE</key>
 <value>/Applications/GoogleAppEngineLauncher.app/Contents/Resources/GoogleAppEngine-default.bundle/Contents/Resources/google_appengine</value>
 <key>DJANGO_MANAGE_LOCATION</key>
-<value>/Users/larkki/Documents/eclipse_workspace/djangopollsharjoitus/manage.py</value>
+<value>manage.py</value>
 <key>DJANGO_SETTINGS_MODULE</key>
-<value>/Users/larkki/Documents/eclipse_workspace/djangopollsharjoitus/settings.py</value>
+<value>settings.py</value>
 </pydev_variables_property>
 
 <pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
@@ -24,6 +24,6 @@
 </pydev_pathproperty>
 
 <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
-<path>/djangopollsharjoitus</path>
+<path>/halvinbensa-appengine</path>
 </pydev_pathproperty>
 </pydev_project>
